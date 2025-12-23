@@ -1,0 +1,7 @@
+# Allow all bots to access page
+User-agent: *
+Allow: /
+
+# Point to the sitemap 
+Sitemap: https://pointlomacoinlaundry.com/sitemap.xml
+
